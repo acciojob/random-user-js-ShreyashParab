@@ -1,4 +1,4 @@
-//your code here
+
 document.querySelector('#getUser').addEventListener('click',getData)
 
 document.getElementById('age').setAttribute('data-attr',age)
